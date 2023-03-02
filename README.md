@@ -18,12 +18,20 @@
 <br>
 在slices中选择5-10个非目标角色语音复制到samples/0中
 <br>
+
 ![image](https://user-images.githubusercontent.com/42380934/222332282-eb696af9-c2b0-4e66-80dd-fa4836667b79.png)
+
 <br>
 然后运行classify.ipynb<br>
+
 <br>运行过程中会出现弹窗, 用于半自动增加样本量<br>
+
 ![image](https://user-images.githubusercontent.com/42380934/222332912-9f4659e1-5628-46b9-93bc-53822316fd3a.png)
+
 <br>将弹窗播放的每个音频归入正样本(Positive)或负样本(Negative)<br>
+
 <br>大约对100个左右的样本进行归类, 程序就可以得到最终结果, 并保存在result中<br>
+
 ![image](https://user-images.githubusercontent.com/42380934/222333416-86df916f-7828-42ee-8345-f4492cf03129.png)
+
 ![image](https://user-images.githubusercontent.com/42380934/222333436-261b505e-2b91-46d8-beae-5dbda46e3085.png)
