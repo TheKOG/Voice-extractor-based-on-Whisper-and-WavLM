@@ -1,8 +1,9 @@
 # Voice-extractor-based-on-Whisper-and-WavLM
-本项目用于生成语音训练集
+### 本项目用于生成语音训练集
+
 ## 只有一个角色时:<br>
 ![image](https://user-images.githubusercontent.com/42380934/222331950-c40d03e4-e16c-4d69-b5fa-c79b8a8c459d.png)
-<br>将STT.ipynb中的pth改为原音频文件路径<br>
+<br>将STT.ipynb中的pth改为原音频文件路径, 如果文件杂音较多则最好先使用demucs分离人声<br>
 运行STT.ipynb在文件夹slices中生成语音切片, 同时生成对应文本list.txt
 <br>
 ![image](https://user-images.githubusercontent.com/42380934/222332318-4c005aff-6529-470c-b9ef-f60698616d05.png)
