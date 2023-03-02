@@ -11,6 +11,8 @@
 运行STT.ipynb在文件夹slices中生成语音切片, 同时生成对应文本list.txt
 <br>
 ![image](https://user-images.githubusercontent.com/42380934/222332318-4c005aff-6529-470c-b9ef-f60698616d05.png)
+![image](https://user-images.githubusercontent.com/42380934/222333674-6790db9e-e4d8-4c08-99c4-67e80a1f588c.png)
+
 <br>
 在slices中选择5-10个目标角色语音复制到samples/1中
 <br>
